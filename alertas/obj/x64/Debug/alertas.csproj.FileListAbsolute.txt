@@ -1,0 +1,10 @@
+C:\Users\guilherme.falmeida7\source\repos\alertas\bin\x64\Debug\alertas.exe.config
+C:\Users\guilherme.falmeida7\source\repos\alertas\bin\x64\Debug\alertas.exe
+C:\Users\guilherme.falmeida7\source\repos\alertas\bin\x64\Debug\alertas.pdb
+C:\Users\guilherme.falmeida7\source\repos\alertas\obj\x64\Debug\alertas.frmAlertas.resources
+C:\Users\guilherme.falmeida7\source\repos\alertas\obj\x64\Debug\alertas.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\repos\alertas\obj\x64\Debug\alertas.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\repos\alertas\obj\x64\Debug\alertas.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\repos\alertas\obj\x64\Debug\alertas.exe
+C:\Users\guilherme.falmeida7\source\repos\alertas\obj\x64\Debug\alertas.pdb
+C:\Users\guilherme.falmeida7\source\repos\alertas\obj\x64\Debug\alertas.csproj.AssemblyReference.cache

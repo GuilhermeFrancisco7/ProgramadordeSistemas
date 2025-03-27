@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.frmVetor.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.pdb
+=======
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.frmVetor.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.pdb
+>>>>>>> 8ab9e490f65f4e62dfc222416cb72ba809ecc8cd

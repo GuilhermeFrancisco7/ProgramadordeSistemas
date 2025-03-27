@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.frmtabuadaloop.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.pdb
+=======
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\bin\x64\Debug\tabuadacomloop.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.frmtabuadaloop.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\tabuadacomloop\obj\x64\Debug\tabuadacomloop.pdb
+>>>>>>> 8ab9e490f65f4e62dfc222416cb72ba809ecc8cd

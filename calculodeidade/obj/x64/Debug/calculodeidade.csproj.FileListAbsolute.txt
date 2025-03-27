@@ -1,0 +1,10 @@
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\bin\x64\Debug\calculodeidade.exe.config
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\bin\x64\Debug\calculodeidade.exe
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\bin\x64\Debug\calculodeidade.pdb
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.exe
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.pdb
+C:\Users\guilherme.falmeida7\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.frmcalculodeidade.resources

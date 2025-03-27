@@ -1,0 +1,9 @@
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\bin\x64\Debug\ExibirNome.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\bin\x64\Debug\ExibirNome.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\bin\x64\Debug\ExibirNome.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\x64\Debug\ExibirNome.frmExibirNome.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\x64\Debug\ExibirNome.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\x64\Debug\ExibirNome.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\x64\Debug\ExibirNome.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\x64\Debug\ExibirNome.pdb

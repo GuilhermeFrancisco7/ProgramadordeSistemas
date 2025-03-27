@@ -1,0 +1,10 @@
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\bin\Debug\ExibirNome.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\bin\Debug\ExibirNome.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\bin\Debug\ExibirNome.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\Debug\ExibirNome.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\Debug\ExibirNome.frmExibirNome.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\Debug\ExibirNome.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\Debug\ExibirNome.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\Debug\ExibirNome.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\Debug\ExibirNome.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\ExibirNome\obj\Debug\ExibirNome.pdb
