@@ -31,7 +31,7 @@ namespace pictureBox
             {
                 // Caixa de Diálogo para abrir arquivo
                 OpenFileDialog abrirarquivo = new OpenFileDialog();
-                abrirarquivo.Filter = "JPG files (*.jpg)|*.jpg| PNG files (*.png)|*.png|All files (*.*)|*.*";
+                abrirarquivo.Filter = "JPG files (*.jpg)|*.jpg|PNG files (*.png)|*.png|All files (*.*)|*.*";
 
                 if (abrirarquivo.ShowDialog() == System.Windows.Forms.DialogResult.OK)
                 {

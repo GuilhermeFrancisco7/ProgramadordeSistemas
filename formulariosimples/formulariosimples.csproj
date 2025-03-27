@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{44522784-46A2-4A58-93D6-F067CD0D571C}</ProjectGuid>
+    <ProjectGuid>{2A7FEEA6-B926-4CED-8FBC-4BCA96956F48}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>pictureBox</RootNamespace>
-    <AssemblyName>pictureBox</AssemblyName>
+    <RootNamespace>formulariosimples</RootNamespace>
+    <AssemblyName>formulariosimples</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -85,7 +85,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -99,12 +98,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\computador.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\computador1.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

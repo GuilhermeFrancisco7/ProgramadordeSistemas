@@ -1,0 +1,10 @@
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\bin\x64\Debug\pictureBox.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\bin\x64\Debug\pictureBox.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\bin\x64\Debug\pictureBox.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\obj\x64\Debug\pictureBox.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\obj\x64\Debug\pictureBox.frmPictureBox.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\obj\x64\Debug\pictureBox.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\obj\x64\Debug\pictureBox.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\obj\x64\Debug\pictureBox.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\obj\x64\Debug\pictureBox.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\pictureBox\obj\x64\Debug\pictureBox.pdb
